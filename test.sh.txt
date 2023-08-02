@@ -1,0 +1,3 @@
+echo "hello moto"
+echo $1 # output: first_arg
+echo $2
